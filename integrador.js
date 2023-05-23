@@ -177,6 +177,7 @@ const carrito = new Carrito();
 carrito.agregarProducto('WE328NJ', 10);
 carrito.agregarProducto('XX92LKI', 10);
 
+
 eliminandoProducto('XX92LKI', 11)
 eliminandoProducto('WE328NJ', 5)
 
